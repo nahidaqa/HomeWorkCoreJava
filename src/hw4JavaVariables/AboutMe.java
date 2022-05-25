@@ -21,7 +21,7 @@ public class AboutMe {
 	// Method implemented:
 	public void aboutMe() {
 		System.out.println("My Name: " + name + "\nMy age: " + age + "\nMy home: " + home + "\nMy Salary: " + salary
-				+ "\nMy bank balance: " + myBankBalance + "\n My height: " + myHeight + "\nMy weight: " + myWeight
+				+ "\nMy bank balance: " + myBankBalance + "\nMy height: " + myHeight + "\nMy weight: " + myWeight
 				+ "\nMy sex: " + mySex + "\nMy status: " + myStatus);
 
 	}
